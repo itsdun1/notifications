@@ -1,0 +1,10 @@
+{
+    "username": "postgres",
+    "password": "",
+    "database": "notification_schedular",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": true,
+    "pool": { "maxConnections": 10, "maxIdleTime": 30000},
+    "_comment": "connect to VPN, use host: 10.0.1.251, database: mesl_remote if you are using remote database to test"
+}
